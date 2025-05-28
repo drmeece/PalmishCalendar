@@ -64,5 +64,5 @@ Created with patience, nostalgia, and Kotlin by D.R. and Zeke.🚀
 
 📜 License
 
-This project is open source and available under the MIT License. Feel free to use, modify, and share it.
+This project is open source and available under the MIT License. Feel free to use, modify, and share it (“Do whatever you want with this code—just include the original license and don’t blame me if something breaks.”)
 
