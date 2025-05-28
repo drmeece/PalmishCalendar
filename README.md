@@ -2,7 +2,8 @@ Palmish PDA Calendar
 
 Palmish is a minimalist Android planner app inspired by the classic Palm OS. Designed for simplicity and focus, it brings back the feel of a personal digital assistant with modern capabilities.
 
-👉  <a href = https://github.com/drmeece/PalmishCalendar/raw/main/releases/Palmish-v1.0-release.apk> Download Palmish v1.0 APK</a>
+👉 [Download Palmish v1.0 APK](https://github.com/drmeece/PalmishCalendar/releases/download/v1.0/Palmish-v1.0-release.apk)
+
 
 You can sideload this APK onto your Android device. Be sure to enable “Install from unknown sources” in your phone settings.
 
