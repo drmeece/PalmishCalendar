@@ -64,6 +64,8 @@ Build and run the app
 
 From the main calendar screen, use the bottom bar to access Memo, To-Do, Calculator, or Games
 
+You will have to give permission for your calendar for it to sync. There are no weird trackers or data collectors or anything creepy.
+
 🧑‍💻 About This Project
 
 Palmish is a personal project created out of love for retro tech and simplicity. It combines calendar productivity with just enough fun to keep it human.
