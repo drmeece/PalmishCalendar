@@ -60,4 +60,9 @@ From the main calendar screen, use the bottom bar to access Memo, To-Do, Calcula
 
 Palmish is a personal project created out of love for retro tech and simplicity. It combines calendar productivity with just enough fun to keep it human.
 
-Created with patience, nostalgia, and Kotlin 🚀
+Created with patience, nostalgia, and Kotlin by D.R. and Zeke.🚀
+
+📜 License
+
+This project is open source and available under the MIT License. Feel free to use, modify, and share it.
+
